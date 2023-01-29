@@ -45,3 +45,5 @@ pat = "ABABCABAB"
 ans = kmpSolution(txt,pat)
 
 print(ans)
+
+print("KMP2 branch")
